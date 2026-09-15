@@ -1,16 +1,17 @@
-## Hi there 👋
+# Erick Albert Daré
 
-<!--
-**ErickDareJdSN/ErickDareJdSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação na **Universidade Vila Velha** (Vila Velha/ES).
+C, SQL, lógica e projetos da faculdade — aprendendo no público.
 
-Here are some ideas to get you started:
+## Agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2º semestre: Laboratório de Programação em **C**
+- Base do 1º semestre: **SQL** e **HTML**
+
+## Repositório principal
+
+**[UVV-Erick](https://github.com/ErickDareJdSN/UVV-Erick)** — materiais e exercícios da UVV (2025–presente).
+
+## Stack que aparece nos exercícios
+
+`C` · `SQL` · `HTML`
